@@ -9,6 +9,5 @@ p {
 }
 
 body {
-	background: url(tech.jpeg);
+	background-image: url("../tech.jpeg");
 }
-
