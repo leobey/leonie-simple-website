@@ -1,13 +1,46 @@
 h1 {
-	color: navy;
-	background-color: white;
-	font-family: "Verdana";
+	color: #39ff14;
 }
 
 p {
-	color: red;
+	color: white;
 }
 
 body {
-	background-image: url("../tech.jpeg");
+	color: #39ff14;
+}
+
+body {
+	background-image: url("../tech2.jpeg");
+}
+
+img:hover {
+	opacity: 0.5;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+a:link {
+	color: white;
+	background-color: #39ff14;
+	border-style: solid;
+	font-style: italic;
+}
+
+a:hover {
+	color: black;
+}
+
+b:link {
+	color: white;
+	background-color: #39ff14;
+	border-style: solid;
+	font-style: italic;
+}
+
+b:hover {
+	color: black;
 }
